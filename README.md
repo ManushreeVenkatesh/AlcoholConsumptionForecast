@@ -1,4 +1,4 @@
-# AlcoholConsumptionForecast
+# Alcohol Consumption Forecast
 
 # Quarterly Alcohol Consumption Prediction Modeling
 
